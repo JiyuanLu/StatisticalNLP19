@@ -1,5 +1,5 @@
 name:
-   first: Urvish
-   last: Desai
-email: urvish@nyu.edu
-leaderboard: Baseline
+   first: Jiyuan
+   last: Lu
+email: jl11046@nyu.edu
+leaderboard: LJY
