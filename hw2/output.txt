@@ -31,7 +31,7 @@ drug	Tylenol Cold and Flu No Drowsiness Powder 124
 movie	The Wog Boy
 movie	Un Anno in campagna
 drug	Apo-Alpraz
-movie	Xi yang jing
+person	Xi yang jing
 company	Giant Industries Inc.
 movie	Taivas tiellä
 drug	PMS-Docusate Sodium 44
@@ -140,7 +140,7 @@ person	John Whittaker
 movie	Gang Bang Angels 7
 drug	Andronate 100
 drug	Norditropin
-person	Jersey Guy
+movie	Jersey Guy
 person	Aarno Karimo
 person	John Henry
 movie	Lao tou
@@ -436,7 +436,7 @@ movie	Private Vignettes #1
 movie	Attention Shoppers
 person	Penny Okamoto
 person	Charles Reyneau
-person	In Flagrante
+Movie	In Flagrante
 drug	Botox
 drug	Contac Cold/Flu Day Caplets 124
 movie	Love at First Sight
@@ -474,7 +474,7 @@ movie	Raped by an Angel 5: The Final Judgement
 movie	Gerry Humphreys: The Loved One
 place	Kingsteignton
 place	Lancaster
-movie	Otto Szász
+person	Otto Szász
 movie	Harikomi
 person	Joe Mcginnity
 company	Fansteel Inc.
@@ -1083,7 +1083,7 @@ person	James M. Kelly
 place	Myciguent
 drug	Comtrex Daytime Caplets 124
 movie	Ningen no kuzu
-person	Don't Kill
+movie	Don't Kill
 person	Cherry Hills
 movie	The Last Buckaroo
 company	Cigna Investment Securities, Inc.
@@ -1360,7 +1360,7 @@ movie	The Film Biker
 place	Yemen
 place	Cambodia
 person	Ellen S. Baker
-company	Animated Corpse
+movie	Animated Corpse
 drug	Lacril
 drug	Paludrine
 person	Boniface II
@@ -1551,7 +1551,7 @@ person	Luigi Grandi
 person	Gravol I/V
 place	Nessundorma
 place	Blood
-drug	Colorado
+place	Colorado
 person	George Bernard Shaw
 person	Dianne Feinstein
 movie	Frankie Goes to Hollywood: Hard On
@@ -1660,7 +1660,7 @@ movie	Happy Birthday
 person	David H. Hubel
 drug	Guaifenex PPA 75 141
 drug	Colmar
-person	Barrack Heights
+place	Barrack Heights
 company	American Finl Cap Tr I
 person	Kate Kirby
 drug	Topicaine
@@ -1723,7 +1723,7 @@ drug	Isocaine 2%
 place	Flaxton
 person	Robert O'Hara Burke
 place	South
-place	Angels!
+movie	Angels!
 drug	3-D Safari
 movie	Sandra et les siens
 person	Michel Rolle
@@ -2510,7 +2510,7 @@ place	Craigavon
 movie	Trial by Fire
 person	John Clarkson
 company	Maxtor Corp.
-person	Alberta Hunter
+movie	Alberta Hunter
 person	Napoleon Bonaparte Buford
 place	Betws-y-Coed
 movie	Heather Locklear
@@ -2847,7 +2847,7 @@ movie	The Theory of Everything
 drug	Aristocort D 18
 movie	Danny and Max
 person	Patricia Ryan Nixon
-place	FluShield
+drug	FluShield
 person	Osborne Reynolds
 person	Elisabeth Kuber Ross
 movie	The Summer Intern
